@@ -123,14 +123,4 @@ Deploy results using Streamlit or Flask
 
 Ashif Mondal
 
-📬 Feedback and suggestions are always welcome!
 
-If you want, I can:
-
-Shorten this for quick GitHub viewing
-
-Add project screenshots
-
-Add badges (Python, ML, Clustering)
-
-Rewrite it in resume-optimized style
