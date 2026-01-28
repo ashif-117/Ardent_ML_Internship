@@ -110,17 +110,3 @@ Improve visualization and interpretability
 👨‍💻 Author
 
 Ashif Mondal
-
-📬 Feel free to connect or provide feedback!
-
-If you want, I can:
-
-Customize this for college submission
-
-Add badges (Python, ML, License, Accuracy)
-
-Rewrite it in a shorter or more advanced style
-
-Match it exactly to what’s inside your notebook
-
-Just tell me 😄
